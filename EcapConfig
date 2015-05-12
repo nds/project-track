@@ -1,0 +1,5 @@
+host:web-mii-ecap
+port:3354
+db:ecap2_live
+user:ecap_ro
+password:goose_stepper98
